@@ -1,0 +1,9 @@
+[
+  {
+    "name": "my samba server",
+		"user":"user",
+		"password":"password",
+		"host": "/mnt/samba",
+		"server": "//127.0.0.1/samba"
+  }
+]
