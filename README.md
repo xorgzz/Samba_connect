@@ -3,6 +3,7 @@
 Golang TUI app that simplifies mounting samba drives in linux
 <br>
 ### How to set up
+`$ sudo apt install libncurses-dev`<br>
 `$ git clone https://github.com/xorgzz/Samba_connect`<br>
 `$ cd Samba_connect` <br>
 `$ go build`<br>
